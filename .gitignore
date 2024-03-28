@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.aptos/
+sui.log.*
+*.debug.ts
